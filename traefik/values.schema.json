@@ -932,12 +932,6 @@
                         },
                         "pushInterval": {
                             "type": "string"
-                        },
-                        "serviceName": {
-                            "type": [
-                                "string",
-                                "null"
-                            ]
                         }
                     },
                     "type": "object"
